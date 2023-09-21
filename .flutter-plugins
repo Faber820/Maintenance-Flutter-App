@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/cloud_firestore-3.5.1/
+cloud_firestore_web=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/cloud_firestore_web-2.8.10/
+file_picker=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/file_picker-4.6.1/
+firebase_auth=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_auth-3.11.2/
+firebase_auth_web=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_auth_web-4.6.1/
+firebase_core=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_core-1.24.0/
+firebase_core_web=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_core_web-1.7.3/
+firebase_storage=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_storage-10.3.11/
+firebase_storage_web=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/firebase_storage_web-3.3.9/
+flutter_plugin_android_lifecycle=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.8/
+open_file=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/open_file-3.2.1/
+path_provider=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/path_provider-2.0.13/
+path_provider_android=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/path_provider_android-2.0.23/
+path_provider_foundation=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.2/
+path_provider_linux=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.9/
+path_provider_windows=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/path_provider_windows-2.0.7/
+qr_code_scanner=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/qr_code_scanner-0.7.0/
+url_launcher=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher-6.1.10/
+url_launcher_android=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.24/
+url_launcher_ios=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.1/
+url_launcher_linux=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.3/
+url_launcher_macos=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.3/
+url_launcher_web=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.15/
+url_launcher_windows=/Users/fabriziobattiloro/Developer/flutter/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.4/
